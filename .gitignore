@@ -1,0 +1,27 @@
+# Compiled files
+*.class
+*.jar
+*.o
+*.exe
+*.out
+
+# C# build artifacts
+bin/
+obj/
+*.csproj
+*.sln
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.bak
