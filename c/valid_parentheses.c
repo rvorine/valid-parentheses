@@ -22,7 +22,7 @@
  */
 bool isValid(char* s) {
     if (s == NULL) {
-        return true;
+        return false;
     }
     
     int len = strlen(s);

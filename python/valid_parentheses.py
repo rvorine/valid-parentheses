@@ -25,7 +25,7 @@ class ValidParentheses:
         Returns:
             True if parentheses are valid, False otherwise
         """
-        if s is None or len(s) % 2 != 0:
+        if len(s) % 2 != 0:
             return False
         
         stack = []
