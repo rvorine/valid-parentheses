@@ -4,6 +4,8 @@
 *.o
 *.exe
 *.out
+valid_parentheses
+ValidParentheses
 
 # C# build artifacts
 bin/
